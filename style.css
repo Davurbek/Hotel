@@ -1,0 +1,89 @@
+
+.navbar-brand span
+{
+    color: #606060;
+}
+.carousel-inner img
+{
+    width: 100%;
+    height: 100%;
+}
+.carousel-caption
+{
+    position: absolute;
+    top:80%;
+    transform: translateX(-15%);
+    text-align: justify;
+    background-color: black;
+    opacity: 0.6;
+    width: 100%;
+}
+.carousel-caption p{
+    color: lavenderblush;
+    font-size: .9rem;
+   
+}
+ .nav-item
+{
+    margin-left: 15px;
+    
+}
+img{
+    height: 100%;
+    width: 100%;
+
+}
+
+.nav-link
+{
+    color: white !important;
+}
+.grit-post
+{
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.grit-post span
+{
+    color: black;
+}
+.grit-post h1{
+    color:  #606060;
+}
+.post
+{
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.post img{
+    border: 15px solid #e2e2e2;
+    margin-top: 50px;
+}
+.post .card{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 0;
+}
+.list
+{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.list span
+{
+    color: black;
+}
+.list h1
+{
+    color:#606060;
+}
+
+.table span{
+    color: black;
+}
+.table h1{
+    color:#606060;
+}
